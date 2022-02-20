@@ -4,6 +4,8 @@
 
 A chrome extension replace your new tab page with a dashboard with nature background images, clock, current weather information and bitcoin prices.
 
+To make the project functional you need to register and get your own API keys from Unsplash and OpenWeather and put them in apiKeys object in config.js file.
+
 Thanks for :
 - [Unsplash](https://unsplash.com/developers) API.
 - [OpenWeather](https://openweathermap.org/api) API.
